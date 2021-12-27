@@ -1,0 +1,14 @@
+/* CSS document */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+#insetos{
+	background-color: #ffeaea;
+}
+
+#repteis{
+	background-color: #fff7dd;
+}
